@@ -2,10 +2,16 @@ body {
    background: #cccccc
 }
 
+h1 {
+    text-align: center
+
 p {
    text-align: center;
 }
+#missão {
+    font-size: 20px
 
-strongh {
-    color: red;
+em strongh {
+    color: red;
 }
+
